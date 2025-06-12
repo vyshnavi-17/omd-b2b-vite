@@ -6,9 +6,9 @@ This project is a React.js + Tailwind CSS frontend for Marketing Cafe’s OMD-B2
 
 ### Requirements:
 - Node.js v16+
-- npm or pnpm
+- npm or pnpm(prefered)
 
 ### Steps:
 ```bash
-npm install
-npm run dev
+npm install or pnpm install(preferd)
+npm run dev or pnpm run dev 
